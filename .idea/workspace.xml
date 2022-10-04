@@ -5,11 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="c0f7bab8-22f3-4f9f-b2aa-ac4a23d4b5ab" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/homework01/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/homework01/tests/caesar.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework01/caesar.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework01/rsa.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/homework01/vigenere.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,11 +43,15 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/динара/OneDrive/Документы/GitHub/laboratornaya-rabota-no1-sortirovka-vstavkami-vyborom-dinarasaurae",
+    "last_opened_file_path": "C:/Users/динара/OneDrive/Документы/GitHub",
     "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyIntegratedToolsModulesConfigurable"
   }
 }]]></component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\динара\OneDrive\Документы\GitHub" />
+      <recent name="C:\Users\динара\OneDrive\Документы\GitHub\dinarasaurae\homework01\tests" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\динара\OneDrive\Документы\GitHub\dinarasaurae\homework01\tests" />
       <recent name="C:\Users\динара\OneDrive\Документы\GitHub\dinarasaurae\homework01\tests\.pytest_cache" />
